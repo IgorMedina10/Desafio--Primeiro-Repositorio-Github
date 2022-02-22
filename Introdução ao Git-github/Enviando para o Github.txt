@@ -1,0 +1,14 @@
+# Nesta anotação estaremos enviando (commit) a pasta criada + as alterações ao git local e ao git remoto 
+
+
+
+Inicialmente: Git status - para verificar o andamento e o que será necessário realizar
+
+Adicione a pasta criada ao repositorio local.
+ - git add . = adiciona todos os arquivos e pastas criadas
+
+As pastas e alterações foram adicionadas ao repositório local.
+- git commit -m "passar uma ação" = para criar um commit a ser enviado ao repositório remoto
+
+Basta agora enviar ao github remoto
+- git push origin main = usado para enviar o conteúdo do repositório local para um repositório remoto

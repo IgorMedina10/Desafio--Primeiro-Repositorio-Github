@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Meu Computador"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-02-19 10:09:10 AM"/>
+        <attribute name="created" value="TWV1IENvbXB1dGFkb3I7REVTS1RPUC0yTjAxUFJTOzIwMjItMDItMTk7MDk6NTQ6MTcgQU07MzcwNw=="/>
+        <attribute name="edited" value="TWV1IENvbXB1dGFkb3I7REVTS1RPUC0yTjAxUFJTOzIwMjItMDItMTk7MTA6MDk6MTAgQU07MTszODAw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="janeiro, fevereiro, marco, abril, soma" type="Real" array="False" size=""/>
+            <input variable="janeiro"/>
+            <input variable="fevereiro"/>
+            <input variable="marco"/>
+            <input variable="abril"/>
+            <assign variable="soma" expression="(janeiro+fevereiro+marco+abril)"/>
+            <output expression="soma" newline="True"/>
+            <if expression="soma&gt;=5000">
+                <then>
+                    <output expression="&quot;parabens voc&#234; receber&#225; um b&#244;nus de 10% pela meta alcan&#231;ada&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Meta n&#227;o alcan&#231;ada mas por muito pouco, pelo esfor&#231;o ser&#225; oferecido 3% de abono&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
