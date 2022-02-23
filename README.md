@@ -1,28 +1,26 @@
-# Algumas anotações relevantes sobre os comandos mais usados no git
+# Desafio Dio - Primeiro Repositório 
 
 
-- git init = Criar um novo repositório na pasta desejada
 
-- git add = adicionar as mudanças no working directory para stage area
-- git add . = adiciona todos os arquivos e pastas criadas
+## Desafio para criar um repositório
 
-- git commit = capturar o estado de um projeto naquele momento.
-- git commit -m "passar uma ação" = para criar um commit a ser enviado ao repositório remoto
+O desafio dado foi criar um repositório com as principais informações estudas de conhecimento e trabalhar em conjunto, entendendo melhor o github e suas funcionalidades como também adicionar, alterar, enviar, clonar repositórios locais e remotos.
 
-- git push origin main = usado para enviar o conteúdo do repositório local para um repositório remoto
-- git pull = é usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais
-- git remote add origi + url = onde você deseja add o seu código
-
-- ls = listar
-
-- git status = status  se tem alguma pendencia a verificar
-              erro de sincronização
-              work tree clear
-              commit suceful 
-
-- git clone = clonar o nosso link do git para usuario local 
-
-- ctrl L= Limpar
+- Foi inserido alguns dos meus primeiros projetos como o Flowgorithm
+  Inicio básico e noções de programação/desenvolvedor
+  Médias, somas, alternativas, escolhas, repetições limitadas
+- Inserido também alguns projetos com o Portugol
+  Medias, somas, alternativas, escolhas, escolhas limitadas
+  Todas com linhas de códigos básicos utilizando linguagem específica 
+  Concatenação, faça, equanto, escreva, leia
+- Estudo aprofundado:
+  Matrizes e Vetores
+  Variáveis
+  Estrutura de dados e algoritmos
+  Pilhas
+  Pseudocódigo
+  Estrutura condicional  
+  
 
 
 
