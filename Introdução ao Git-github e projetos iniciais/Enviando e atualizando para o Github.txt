@@ -12,3 +12,9 @@ As pastas e alterações foram adicionadas ao repositório local.
 
 Basta agora enviar ao github remoto
 - git push origin main = usado para enviar o conteúdo do repositório local para um repositório remoto
+
+
+
+# Nesta anotação esta exemplificado como atualizar o seu documento caso não esteja atualizado.
+
+- git pull origin main = usado para trazer o conteúdo do repositório remoto para um repositório local
